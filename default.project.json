@@ -1,0 +1,21 @@
+{
+    "name": "TreasureHunters",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "Config": {
+                "$path": "src/shared/Config"
+            }
+        },
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+            "Services": {
+                "$path": "src/server/Services"
+            },
+            "ServerMain": {
+                "$path": "src/server/ServerMain.server.luau"
+            }
+        }
+    }
+}

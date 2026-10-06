@@ -1,0 +1,20 @@
+# Roblox place files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tooling
+node_modules/
+wally_packages/
+Packages/
+roblox.lock
+
+# Editor
+*.swp
+*.swo
+*~
